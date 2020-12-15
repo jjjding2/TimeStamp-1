@@ -1,4 +1,4 @@
-<h1 align="center"> Timestamp </h1> <br>
+<h1 align="center"> Portal </h1> <br>
 <p align="center">
     <img alt="Portal" title="Portal" src="https://i.imgur.com/lVF6dK8.png" width="150">
 </p>
@@ -9,7 +9,7 @@
 
 ## Introduction
 
-Designed to organize the large amounts of information relating to schedules, news, and events at schools in an easily accessible place. Built for UTS students, formerly known as TimeStamp. New repo for reat native version: https://github.com/dkantereivin/uts-portal-react
+Designed to organize the large amounts of information relating to schedules, news, and events at schools in an easily accessible place. Built for UTS students, formerly known as TimeStamp. New repo for react native version: https://github.com/dkantereivin/uts-portal-react
 
 **Available for iOS.**
 
